@@ -1,0 +1,35 @@
+.interna_sobre {
+  background: url("../img/sobre/bg-topo-sobre.jpg") no-repeat center;
+}
+
+.historia {
+  width: 100%;
+  height: 276px;
+  padding: 60px 0;
+}
+
+.historia h2 {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.historia h2::after {
+  margin: 8px auto 0 0;
+}
+
+.p_historia {
+  max-width: 450px;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 1em;
+}
+
+.historia ul li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.bicicletas {
+  padding-top: 40px;
+}
