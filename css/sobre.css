@@ -1,5 +1,6 @@
 .interna_sobre {
   background: url("../img/sobre/bg-topo-sobre.jpg") no-repeat center;
+  background-size: cover;
 }
 
 .historia {
